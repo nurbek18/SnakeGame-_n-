@@ -2,10 +2,12 @@
 
 欢迎来到 VS Code Java 的世界。以下是帮助您开始在 Visual Studio Code 中 运行snakegame 的简单教程；
 ## 开始游戏
-"C:\Users\Nurbek\Pictures\Screenshots\Screenshot_20240507_045430.png"
+![Screenshot_20240507_045408](https://github.com/nurbek18/SnakeGame-_n-/assets/87654975/32ca09de-0c13-4140-a3c7-06e5d71480e5)
+
 在以上的图片中你可以看到，当你运行程序时，游戏会自动开始，你需要通过  w(前) , a（左） , s（后） , d（右）这些电脑案件来控制小蛇运动，吃仙豆，但是不要撞到边界哦，也不能以蛇走的方向按往后键（这样也会失败）。
 ## 重新开始游戏
-"C:\Users\Nurbek\Pictures\Screenshots\Screenshot_20240507_045417.png"
+![Screenshot_20240507_045417](https://github.com/nurbek18/SnakeGame-_n-/assets/87654975/1c306bd3-2d5a-43a9-aecd-807c6bf98bca)
+
 正如以上图看到的那样，当你游戏失败以后，会在界面当中输出“You down , press Enter to restart” , 你只需要按下enter 键，就可以开始游戏了。
 
 ## 使用的技术
