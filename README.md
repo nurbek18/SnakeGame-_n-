@@ -1,32 +1,32 @@
-## 入门指南
+## Getting Started Guide
 
-欢迎来到 VS Code Java 的世界。以下是帮助您开始在 Visual Studio Code 中 运行snakegame 的简单教程；
-## 开始游戏
+Welcome to the world of VS Code Java. Here's a simple tutorial to get you started running a Snake game in Visual Studio Code;
+## Start game
 ![Screenshot_20240507_045408](https://github.com/nurbek18/SnakeGame-_n-/assets/87654975/32ca09de-0c13-4140-a3c7-06e5d71480e5)
 
-在以上的图片中你可以看到，当你运行程序时，游戏会自动开始，你需要通过  w(前) , a（左） , s（后） , d（右）这些电脑案件来控制小蛇运动，吃仙豆，但是不要撞到边界哦，也不能以蛇走的方向按往后键（这样也会失败）。
-## 重新开始游戏
+As you can see in the picture above, when you run the program, the game will start automatically. You need to control the little snake through the computer cases w (front), a (left), s (back), d (right). Exercise and eat fairy beans, but don't hit the boundary, and don't press the back button in the direction the snake is walking (this will also fail).
+## restart game
 ![Screenshot_20240507_045417](https://github.com/nurbek18/SnakeGame-_n-/assets/87654975/1c306bd3-2d5a-43a9-aecd-807c6bf98bca)
 
-正如以上图看到的那样，当你游戏失败以后，会在界面当中输出“You down , press Enter to restart” , 你只需要按下enter 键，就可以开始游戏了。
+As you can see in the picture above, when your game fails, "You down, press Enter to restart" will be output in the interface. You only need to press the enter key to start the game.
 
-## 使用的技术
-这段代码使用了以下 Java 技术和特性：
+## Technology used
+This code uses the following Java technologies and features:
 
-JavaFX 应用程序：使用 JavaFX 构建图形用户界面。
-Canvas 和 GraphicsContext：在 JavaFX 中用于绘制图形和图像的类。
-AnimationTimer：用于创建游戏循环，控制游戏速度和动画。
-KeyEvent 和 KeyCode：处理用户按键事件和对应的键码。
-VBox：JavaFX 布局类，用于垂直排列子节点。
-Image：JavaFX 中用于加载和显示图像的类。
-Random：用于生成随机数。
-Font：用于设置文本字体样式。
-List 和 ArrayList：Java 集合类，用于存储蛇的身体坐标和处理食物。
-枚举：定义方向枚举类型。
-异常处理：使用 try-catch 块捕获并处理异常。
-静态方法和属性：使用 static 关键字定义静态方法和属性，如 snake、direction、gameOver 等。
+JavaFX Applications: Build graphical user interfaces using JavaFX.
+Canvas and GraphicsContext: Classes used for drawing graphics and images in JavaFX.
+AnimationTimer: used to create game loops, control game speed and animation.
+KeyEvent and KeyCode: Handle user key events and corresponding key codes.
+VBox: JavaFX layout class for vertically arranging child nodes.
+Image: Class in JavaFX for loading and displaying images.
+Random: used to generate random numbers.
+Font: used to set text font style.
+List and ArrayList: Java collection classes used to store snake body coordinates and handle food.
+Enumeration: Defines the direction enumeration type.
+Exception handling: Use try-catch blocks to catch and handle exceptions.
+Static methods and properties: Use the static keyword to define static methods and properties, such as snake, direction, gameOver, etc.
 
-好啦，以上就是我努尔别克的java 游戏项目，欢迎使用，但别忘了注明出处，嘿嘿，爱你哦！！日你仙人的哈哈哈哈！！！
+Okay, the above is my Nurbek java game project. You are welcome to use it, but don’t forget to indicate the source, hehe! !
 
 
 
